@@ -7,3 +7,4 @@ function equalsTen(num) {
   }
 }
 console.log(equalsTen(10));
+//jhgjhgjyhgj
